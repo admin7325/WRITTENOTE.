@@ -1,0 +1,8 @@
+{
+  "name": "Writtenotes",
+  "description": "A simple notes app with long-press to delete and search functionality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
